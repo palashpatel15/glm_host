@@ -20,5 +20,5 @@ pipeline:
     api_mode: "openai"
 EOF
 
-chmod +x run_vlm.sh
-chmod +x run_server.sh
+# chmod +x run_vlm.sh
+# chmod +x run_server.sh
