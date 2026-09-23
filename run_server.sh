@@ -1,0 +1,1 @@
+python -m glmocr.server --config config.yaml
